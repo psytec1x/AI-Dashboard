@@ -17,8 +17,7 @@ Der Benutzer kann weitere Seiten und unterseiten erstellen und beliebige Sachen 
 Erstellen Sie ein KI-gestütztes Aufgabenmanagementsystem mit natürlicher Spracheingabe
 Implementieren Sie die Kalenderintegration mithilfe der Google Calendar API für die Terminplanung.
 Entwerfen Sie ein intelligentes Benachrichtigungssystem mit prioritätsbasierten Warnmeldungen.
-Erstellen Sie eine E-Mail-Verwaltungsfunktion mit KI-gestützter Kategorisierung und Zusammenfassu<img width="1762" height="792" alt="FireShot Capture 005 - AI Personal Assistant -  localhost" src="https://github.com/user-attachments/assets/687345e1-5b3b-4384-b6b5-60da4e61a36f" />
-ng.
+Erstellen Sie eine E-Mail-Verwaltungsfunktion mit KI-gestützter Kategorisierung und Zusammenfassung.
 Implementieren Sie ein Notizsystem mit Spracheingabe und automatischer Transkription.
 Erstellen Sie einen personalisierten Newsfeed mithilfe von maschinellem Lernen zur Inhaltskuratierung
 Erstellen Sie eine Smart-Home-Integration mithilfe der Web Bluetooth API zur Gerätesteuerung.
