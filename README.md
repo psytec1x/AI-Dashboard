@@ -43,4 +43,19 @@ Und teilen, exportieren sollte man alles koennen.
 Beispiel Ergebnis:
 <img width="1762" height="792" alt="image" src="https://github.com/user-attachments/assets/67105024-f492-4552-a489-5c740a42dd35" />
 
+Setup:
+
+Installieren Sie die neueste PowerShell für neue Funktionen und Verbesserungen! https://aka.ms/PSWindows
+
+PS C:\Users\DasSystem> cd "C:\Users\DasSystem\AppData\Local\Temp\opencode\ai-personal-assistant"
+PS C:\Users\DasSystem\AppData\Local\Temp\opencode\ai-personal-assistant> npm run dev
+
+> ai-personal-assistant@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.24.48.1:3000
+✓ Ready in 696ms
+
 
